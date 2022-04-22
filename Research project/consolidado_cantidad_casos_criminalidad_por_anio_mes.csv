@@ -1,0 +1,1423 @@
+Fecha_hecho;Conducta;Cantidad_casos
+2003-01;Extorsión;23
+2003-02;Extorsión;15
+2003-03;Extorsión;9
+2003-04;Extorsión;11
+2003-05;Extorsión;9
+2003-06;Extorsión;7
+2003-07;Extorsión;12
+2003-08;Extorsión;12
+2003-09;Extorsión;7
+2003-10;Extorsión;11
+2003-11;Extorsión;17
+2003-12;Extorsión;11
+2004-01;Extorsión;15
+2004-02;Extorsión;12
+2004-03;Extorsión;8
+2004-04;Extorsión;14
+2004-05;Extorsión;7
+2004-06;Extorsión;7
+2004-07;Extorsión;7
+2004-08;Extorsión;12
+2004-09;Extorsión;9
+2004-10;Extorsión;5
+2004-11;Extorsión;6
+2004-12;Extorsión;3
+2005-01;Extorsión;5
+2005-02;Extorsión;5
+2005-03;Extorsión;8
+2005-04;Extorsión;2
+2005-05;Extorsión;5
+2005-06;Extorsión;3
+2005-07;Extorsión;12
+2005-08;Extorsión;5
+2005-09;Extorsión;3
+2005-10;Extorsión;5
+2005-11;Extorsión;5
+2005-12;Extorsión;10
+2006-01;Extorsión;1
+2006-02;Extorsión;5
+2006-03;Extorsión;10
+2006-04;Extorsión;6
+2006-05;Extorsión;9
+2006-06;Extorsión;4
+2006-07;Extorsión;8
+2006-08;Extorsión;4
+2006-09;Extorsión;4
+2006-10;Extorsión;4
+2006-11;Extorsión;2
+2006-12;Extorsión;5
+2007-01;Extorsión;6
+2007-03;Extorsión;3
+2007-04;Extorsión;6
+2007-05;Extorsión;6
+2007-06;Extorsión;4
+2007-07;Extorsión;2
+2007-08;Extorsión;6
+2007-09;Extorsión;8
+2007-10;Extorsión;4
+2007-12;Extorsión;5
+2008-01;Extorsión;3
+2008-02;Extorsión;4
+2008-03;Extorsión;4
+2008-04;Extorsión;3
+2008-05;Extorsión;4
+2008-06;Extorsión;2
+2008-07;Extorsión;7
+2008-08;Extorsión;5
+2008-09;Extorsión;2
+2008-10;Extorsión;2
+2008-11;Extorsión;2
+2008-12;Extorsión;4
+2009-01;Extorsión;10
+2009-02;Extorsión;11
+2009-03;Extorsión;16
+2009-04;Extorsión;8
+2009-05;Extorsión;11
+2009-06;Extorsión;5
+2009-07;Extorsión;10
+2009-08;Extorsión;5
+2009-09;Extorsión;14
+2009-10;Extorsión;11
+2009-11;Extorsión;7
+2009-12;Extorsión;7
+2010-01;Extorsión;25
+2010-02;Extorsión;16
+2010-03;Extorsión;21
+2010-04;Extorsión;15
+2010-05;Extorsión;9
+2010-06;Extorsión;16
+2010-07;Extorsión;12
+2010-08;Extorsión;15
+2010-09;Extorsión;7
+2010-10;Extorsión;6
+2010-11;Extorsión;7
+2010-12;Extorsión;4
+2011-01;Extorsión;13
+2011-02;Extorsión;10
+2011-03;Extorsión;9
+2011-04;Extorsión;9
+2011-05;Extorsión;11
+2011-06;Extorsión;17
+2011-07;Extorsión;26
+2011-08;Extorsión;20
+2011-09;Extorsión;37
+2011-10;Extorsión;20
+2011-11;Extorsión;14
+2011-12;Extorsión;11
+2012-01;Extorsión;12
+2012-02;Extorsión;23
+2012-03;Extorsión;27
+2012-04;Extorsión;12
+2012-05;Extorsión;18
+2012-06;Extorsión;15
+2012-07;Extorsión;22
+2012-08;Extorsión;12
+2012-09;Extorsión;19
+2012-10;Extorsión;25
+2012-11;Extorsión;12
+2012-12;Extorsión;12
+2013-01;Extorsión;38
+2013-02;Extorsión;44
+2013-03;Extorsión;39
+2013-04;Extorsión;60
+2013-05;Extorsión;57
+2013-06;Extorsión;47
+2013-07;Extorsión;43
+2013-08;Extorsión;54
+2013-09;Extorsión;40
+2013-10;Extorsión;24
+2013-11;Extorsión;5
+2013-12;Extorsión;6
+2014-01;Extorsión;24
+2014-02;Extorsión;34
+2014-03;Extorsión;31
+2014-04;Extorsión;30
+2014-05;Extorsión;34
+2014-06;Extorsión;27
+2014-07;Extorsión;32
+2014-08;Extorsión;21
+2014-09;Extorsión;27
+2014-10;Extorsión;24
+2014-11;Extorsión;17
+2014-12;Extorsión;9
+2015-01;Extorsión;23
+2015-02;Extorsión;43
+2015-03;Extorsión;17
+2015-04;Extorsión;21
+2015-05;Extorsión;21
+2015-06;Extorsión;31
+2015-07;Extorsión;31
+2015-08;Extorsión;32
+2015-09;Extorsión;15
+2015-10;Extorsión;4
+2015-11;Extorsión;3
+2015-12;Extorsión;2
+2016-01;Extorsión;49
+2016-02;Extorsión;32
+2016-03;Extorsión;38
+2016-04;Extorsión;50
+2016-05;Extorsión;11
+2016-06;Extorsión;18
+2016-07;Extorsión;20
+2016-08;Extorsión;20
+2016-09;Extorsión;29
+2016-10;Extorsión;24
+2016-11;Extorsión;20
+2016-12;Extorsión;25
+2017-01;Extorsión;29
+2017-02;Extorsión;26
+2017-03;Extorsión;60
+2017-04;Extorsión;45
+2017-05;Extorsión;61
+2017-06;Extorsión;44
+2017-07;Extorsión;53
+2017-08;Extorsión;45
+2017-09;Extorsión;48
+2017-10;Extorsión;28
+2017-11;Extorsión;26
+2017-12;Extorsión;22
+2018-01;Extorsión;35
+2018-02;Extorsión;52
+2018-03;Extorsión;32
+2018-04;Extorsión;59
+2018-05;Extorsión;56
+2018-06;Extorsión;48
+2018-07;Extorsión;58
+2018-08;Extorsión;67
+2018-09;Extorsión;61
+2018-10;Extorsión;40
+2018-11;Extorsión;40
+2018-12;Extorsión;30
+2019-01;Extorsión;62
+2019-02;Extorsión;55
+2019-03;Extorsión;65
+2019-04;Extorsión;57
+2019-05;Extorsión;73
+2019-06;Extorsión;60
+2019-07;Extorsión;47
+2019-08;Extorsión;50
+2019-09;Extorsión;43
+2019-10;Extorsión;44
+2019-11;Extorsión;47
+2019-12;Extorsión;26
+2020-01;Extorsión;25
+2020-02;Extorsión;33
+2020-03;Extorsión;21
+2020-04;Extorsión;20
+2020-05;Extorsión;24
+2020-06;Extorsión;33
+2020-07;Extorsión;33
+2020-08;Extorsión;28
+2020-09;Extorsión;59
+2020-10;Extorsión;59
+2020-11;Extorsión;117
+2020-12;Extorsión;55
+2021-01;Extorsión;38
+2021-02;Extorsión;22
+2021-03;Extorsión;31
+2021-04;Extorsión;22
+2021-05;Extorsión;35
+2021-06;Extorsión;59
+2021-07;Extorsión;70
+2021-08;Extorsión;42
+2021-09;Extorsión;32
+2003-01;Homicidio;222
+2003-02;Homicidio;175
+2003-03;Homicidio;203
+2003-04;Homicidio;197
+2003-05;Homicidio;187
+2003-06;Homicidio;171
+2003-07;Homicidio;156
+2003-08;Homicidio;140
+2003-09;Homicidio;163
+2003-10;Homicidio;131
+2003-11;Homicidio;133
+2003-12;Homicidio;129
+2004-01;Homicidio;108
+2004-02;Homicidio;109
+2004-03;Homicidio;104
+2004-04;Homicidio;98
+2004-05;Homicidio;118
+2004-06;Homicidio;124
+2004-07;Homicidio;94
+2004-08;Homicidio;100
+2004-09;Homicidio;78
+2004-10;Homicidio;105
+2004-11;Homicidio;82
+2004-12;Homicidio;67
+2005-01;Homicidio;60
+2005-02;Homicidio;60
+2005-03;Homicidio;57
+2005-04;Homicidio;64
+2005-05;Homicidio;55
+2005-06;Homicidio;79
+2005-07;Homicidio;76
+2005-08;Homicidio;73
+2005-09;Homicidio;71
+2005-10;Homicidio;63
+2005-11;Homicidio;69
+2005-12;Homicidio;55
+2006-01;Homicidio;65
+2006-02;Homicidio;63
+2006-03;Homicidio;65
+2006-04;Homicidio;64
+2006-05;Homicidio;50
+2006-06;Homicidio;79
+2006-07;Homicidio;79
+2006-08;Homicidio;73
+2006-09;Homicidio;59
+2006-10;Homicidio;72
+2006-11;Homicidio;61
+2006-12;Homicidio;74
+2007-01;Homicidio;68
+2007-02;Homicidio;57
+2007-03;Homicidio;57
+2007-04;Homicidio;53
+2007-05;Homicidio;57
+2007-06;Homicidio;67
+2007-07;Homicidio;60
+2007-08;Homicidio;54
+2007-09;Homicidio;69
+2007-10;Homicidio;68
+2007-11;Homicidio;84
+2007-12;Homicidio;77
+2008-01;Homicidio;92
+2008-02;Homicidio;75
+2008-03;Homicidio;69
+2008-04;Homicidio;76
+2008-05;Homicidio;82
+2008-06;Homicidio;85
+2008-07;Homicidio;94
+2008-08;Homicidio;82
+2008-09;Homicidio;88
+2008-10;Homicidio;98
+2008-11;Homicidio;109
+2008-12;Homicidio;95
+2009-01;Homicidio;104
+2009-02;Homicidio;110
+2009-03;Homicidio;113
+2009-04;Homicidio;186
+2009-05;Homicidio;209
+2009-06;Homicidio;167
+2009-07;Homicidio;207
+2009-08;Homicidio;209
+2009-09;Homicidio;190
+2009-10;Homicidio;225
+2009-11;Homicidio;235
+2009-12;Homicidio;231
+2010-01;Homicidio;239
+2010-02;Homicidio;116
+2010-03;Homicidio;148
+2010-04;Homicidio;173
+2010-05;Homicidio;214
+2010-06;Homicidio;172
+2010-07;Homicidio;183
+2010-08;Homicidio;198
+2010-09;Homicidio;135
+2010-10;Homicidio;163
+2010-11;Homicidio;142
+2010-12;Homicidio;139
+2011-01;Homicidio;172
+2011-02;Homicidio;140
+2011-03;Homicidio;165
+2011-04;Homicidio;177
+2011-05;Homicidio;158
+2011-06;Homicidio;138
+2011-07;Homicidio;137
+2011-08;Homicidio;137
+2011-09;Homicidio;96
+2011-10;Homicidio;90
+2011-11;Homicidio;121
+2011-12;Homicidio;120
+2012-01;Homicidio;68
+2012-02;Homicidio;90
+2012-03;Homicidio;96
+2012-04;Homicidio;95
+2012-05;Homicidio;106
+2012-06;Homicidio;127
+2012-07;Homicidio;105
+2012-08;Homicidio;103
+2012-09;Homicidio;116
+2012-10;Homicidio;120
+2012-11;Homicidio;116
+2012-12;Homicidio;106
+2013-01;Homicidio;91
+2013-02;Homicidio;100
+2013-03;Homicidio;108
+2013-04;Homicidio;87
+2013-05;Homicidio;92
+2013-06;Homicidio;84
+2013-07;Homicidio;60
+2013-08;Homicidio;70
+2013-09;Homicidio;63
+2013-10;Homicidio;46
+2013-11;Homicidio;59
+2013-12;Homicidio;67
+2014-01;Homicidio;69
+2014-02;Homicidio;45
+2014-03;Homicidio;71
+2014-04;Homicidio;53
+2014-05;Homicidio;56
+2014-06;Homicidio;80
+2014-07;Homicidio;52
+2014-08;Homicidio;58
+2014-09;Homicidio;44
+2014-10;Homicidio;48
+2014-11;Homicidio;40
+2014-12;Homicidio;43
+2015-01;Homicidio;33
+2015-02;Homicidio;30
+2015-03;Homicidio;45
+2015-04;Homicidio;34
+2015-05;Homicidio;36
+2015-06;Homicidio;52
+2015-07;Homicidio;40
+2015-08;Homicidio;42
+2015-09;Homicidio;49
+2015-10;Homicidio;40
+2015-11;Homicidio;61
+2015-12;Homicidio;34
+2016-01;Homicidio;49
+2016-02;Homicidio;41
+2016-03;Homicidio;30
+2016-04;Homicidio;25
+2016-05;Homicidio;56
+2016-06;Homicidio;58
+2016-07;Homicidio;51
+2016-08;Homicidio;39
+2016-09;Homicidio;46
+2016-10;Homicidio;52
+2016-11;Homicidio;46
+2016-12;Homicidio;51
+2017-01;Homicidio;40
+2017-02;Homicidio;55
+2017-03;Homicidio;25
+2017-04;Homicidio;40
+2017-05;Homicidio;41
+2017-06;Homicidio;49
+2017-07;Homicidio;61
+2017-08;Homicidio;56
+2017-09;Homicidio;40
+2017-10;Homicidio;65
+2017-11;Homicidio;49
+2017-12;Homicidio;61
+2018-01;Homicidio;56
+2018-02;Homicidio;41
+2018-03;Homicidio;42
+2018-04;Homicidio;57
+2018-05;Homicidio;64
+2018-06;Homicidio;67
+2018-07;Homicidio;54
+2018-08;Homicidio;53
+2018-09;Homicidio;43
+2018-10;Homicidio;52
+2018-11;Homicidio;48
+2018-12;Homicidio;58
+2019-01;Homicidio;56
+2019-02;Homicidio;50
+2019-03;Homicidio;54
+2019-04;Homicidio;73
+2019-05;Homicidio;76
+2019-06;Homicidio;42
+2019-07;Homicidio;44
+2019-08;Homicidio;49
+2019-09;Homicidio;38
+2019-10;Homicidio;36
+2019-11;Homicidio;32
+2019-12;Homicidio;43
+2020-01;Homicidio;27
+2020-02;Homicidio;45
+2020-03;Homicidio;23
+2020-04;Homicidio;21
+2020-05;Homicidio;42
+2020-06;Homicidio;32
+2020-07;Homicidio;27
+2020-08;Homicidio;38
+2020-09;Homicidio;34
+2020-10;Homicidio;27
+2020-11;Homicidio;25
+2020-12;Homicidio;28
+2021-01;Homicidio;35
+2021-02;Homicidio;26
+2021-03;Homicidio;32
+2021-04;Homicidio;38
+2021-05;Homicidio;37
+2021-06;Homicidio;44
+2021-07;Homicidio;28
+2021-08;Homicidio;30
+2021-09;Homicidio;30
+2003-01;Hurto a persona;214
+2003-02;Hurto a persona;178
+2003-03;Hurto a persona;262
+2003-04;Hurto a persona;350
+2003-05;Hurto a persona;514
+2003-06;Hurto a persona;380
+2003-07;Hurto a persona;520
+2003-08;Hurto a persona;694
+2003-09;Hurto a persona;590
+2003-10;Hurto a persona;714
+2003-11;Hurto a persona;642
+2003-12;Hurto a persona;428
+2004-01;Hurto a persona;686
+2004-02;Hurto a persona;436
+2004-03;Hurto a persona;328
+2004-04;Hurto a persona;414
+2004-05;Hurto a persona;418
+2004-06;Hurto a persona;526
+2004-07;Hurto a persona;580
+2004-08;Hurto a persona;470
+2004-09;Hurto a persona;436
+2004-10;Hurto a persona;454
+2004-11;Hurto a persona;378
+2004-12;Hurto a persona;474
+2005-01;Hurto a persona;440
+2005-02;Hurto a persona;500
+2005-03;Hurto a persona;504
+2005-04;Hurto a persona;378
+2005-05;Hurto a persona;466
+2005-06;Hurto a persona;580
+2005-07;Hurto a persona;708
+2005-08;Hurto a persona;728
+2005-09;Hurto a persona;640
+2005-10;Hurto a persona;510
+2005-11;Hurto a persona;718
+2005-12;Hurto a persona;716
+2006-01;Hurto a persona;520
+2006-02;Hurto a persona;369
+2006-03;Hurto a persona;486
+2006-04;Hurto a persona;344
+2006-05;Hurto a persona;458
+2006-06;Hurto a persona;350
+2006-07;Hurto a persona;300
+2006-08;Hurto a persona;350
+2006-09;Hurto a persona;348
+2006-10;Hurto a persona;264
+2006-11;Hurto a persona;356
+2006-12;Hurto a persona;254
+2007-01;Hurto a persona;136
+2007-02;Hurto a persona;182
+2007-03;Hurto a persona;386
+2007-04;Hurto a persona;320
+2007-05;Hurto a persona;359
+2007-06;Hurto a persona;286
+2007-07;Hurto a persona;280
+2007-08;Hurto a persona;356
+2007-09;Hurto a persona;198
+2007-10;Hurto a persona;284
+2007-11;Hurto a persona;366
+2007-12;Hurto a persona;334
+2008-01;Hurto a persona;302
+2008-02;Hurto a persona;374
+2008-03;Hurto a persona;340
+2008-04;Hurto a persona;424
+2008-05;Hurto a persona;378
+2008-06;Hurto a persona;450
+2008-07;Hurto a persona;612
+2008-08;Hurto a persona;398
+2008-09;Hurto a persona;442
+2008-10;Hurto a persona;528
+2008-11;Hurto a persona;456
+2008-12;Hurto a persona;462
+2009-01;Hurto a persona;586
+2009-02;Hurto a persona;388
+2009-03;Hurto a persona;360
+2009-04;Hurto a persona;338
+2009-05;Hurto a persona;308
+2009-06;Hurto a persona;106
+2009-07;Hurto a persona;270
+2009-08;Hurto a persona;406
+2009-09;Hurto a persona;488
+2009-10;Hurto a persona;408
+2009-11;Hurto a persona;322
+2009-12;Hurto a persona;404
+2010-01;Hurto a persona;350
+2010-02;Hurto a persona;390
+2010-03;Hurto a persona;308
+2010-04;Hurto a persona;184
+2010-05;Hurto a persona;336
+2010-06;Hurto a persona;240
+2010-07;Hurto a persona;250
+2010-08;Hurto a persona;240
+2010-09;Hurto a persona;238
+2010-10;Hurto a persona;258
+2010-11;Hurto a persona;300
+2010-12;Hurto a persona;216
+2011-01;Hurto a persona;137
+2011-02;Hurto a persona;190
+2011-03;Hurto a persona;234
+2011-04;Hurto a persona;195
+2011-05;Hurto a persona;142
+2011-06;Hurto a persona;142
+2011-07;Hurto a persona;132
+2011-08;Hurto a persona;181
+2011-09;Hurto a persona;131
+2011-10;Hurto a persona;137
+2011-11;Hurto a persona;137
+2011-12;Hurto a persona;136
+2012-01;Hurto a persona;388
+2012-02;Hurto a persona;248
+2012-03;Hurto a persona;256
+2012-04;Hurto a persona;451
+2012-05;Hurto a persona;282
+2012-06;Hurto a persona;361
+2012-07;Hurto a persona;403
+2012-08;Hurto a persona;292
+2012-09;Hurto a persona;277
+2012-10;Hurto a persona;178
+2012-11;Hurto a persona;125
+2012-12;Hurto a persona;307
+2013-01;Hurto a persona;829
+2013-02;Hurto a persona;299
+2013-03;Hurto a persona;174
+2013-04;Hurto a persona;236
+2013-05;Hurto a persona;166
+2013-06;Hurto a persona;305
+2013-07;Hurto a persona;326
+2013-08;Hurto a persona;365
+2013-09;Hurto a persona;810
+2013-10;Hurto a persona;1369
+2013-11;Hurto a persona;556
+2013-12;Hurto a persona;473
+2014-01;Hurto a persona;776
+2014-02;Hurto a persona;806
+2014-03;Hurto a persona;714
+2014-04;Hurto a persona;276
+2014-05;Hurto a persona;567
+2014-06;Hurto a persona;649
+2014-07;Hurto a persona;770
+2014-08;Hurto a persona;557
+2014-09;Hurto a persona;853
+2014-10;Hurto a persona;571
+2014-11;Hurto a persona;651
+2014-12;Hurto a persona;529
+2015-01;Hurto a persona;766
+2015-02;Hurto a persona;1108
+2015-03;Hurto a persona;917
+2015-04;Hurto a persona;1036
+2015-05;Hurto a persona;1111
+2015-06;Hurto a persona;1009
+2015-07;Hurto a persona;1060
+2015-08;Hurto a persona;1123
+2015-09;Hurto a persona;1033
+2015-10;Hurto a persona;1013
+2015-11;Hurto a persona;901
+2015-12;Hurto a persona;974
+2016-01;Hurto a persona;999
+2016-02;Hurto a persona;1249
+2016-03;Hurto a persona;1169
+2016-04;Hurto a persona;1412
+2016-05;Hurto a persona;1417
+2016-06;Hurto a persona;1350
+2016-07;Hurto a persona;1370
+2016-08;Hurto a persona;1752
+2016-09;Hurto a persona;1826
+2016-10;Hurto a persona;1856
+2016-11;Hurto a persona;1897
+2016-12;Hurto a persona;1737
+2017-01;Hurto a persona;1484
+2017-02;Hurto a persona;1563
+2017-03;Hurto a persona;1846
+2017-04;Hurto a persona;1691
+2017-05;Hurto a persona;1943
+2017-06;Hurto a persona;1649
+2017-07;Hurto a persona;1836
+2017-08;Hurto a persona;2816
+2017-09;Hurto a persona;2627
+2017-10;Hurto a persona;2929
+2017-11;Hurto a persona;3075
+2017-12;Hurto a persona;2848
+2018-01;Hurto a persona;2340
+2018-02;Hurto a persona;2597
+2018-03;Hurto a persona;2650
+2018-04;Hurto a persona;3324
+2018-05;Hurto a persona;3392
+2018-06;Hurto a persona;3131
+2018-07;Hurto a persona;3073
+2018-08;Hurto a persona;4075
+2018-09;Hurto a persona;3353
+2018-10;Hurto a persona;3525
+2018-11;Hurto a persona;3304
+2018-12;Hurto a persona;2888
+2019-01;Hurto a persona;2836
+2019-02;Hurto a persona;2842
+2019-03;Hurto a persona;3551
+2019-04;Hurto a persona;3285
+2019-05;Hurto a persona;3704
+2019-06;Hurto a persona;3523
+2019-07;Hurto a persona;3782
+2019-08;Hurto a persona;4702
+2019-09;Hurto a persona;3680
+2019-10;Hurto a persona;3954
+2019-11;Hurto a persona;4574
+2019-12;Hurto a persona;5069
+2020-01;Hurto a persona;4435
+2020-02;Hurto a persona;2906
+2020-03;Hurto a persona;1930
+2020-04;Hurto a persona;740
+2020-05;Hurto a persona;1401
+2020-06;Hurto a persona;1715
+2020-07;Hurto a persona;1994
+2020-08;Hurto a persona;2052
+2020-09;Hurto a persona;2345
+2020-10;Hurto a persona;2569
+2020-11;Hurto a persona;2552
+2020-12;Hurto a persona;3000
+2021-01;Hurto a persona;2303
+2021-02;Hurto a persona;2450
+2021-03;Hurto a persona;2779
+2021-04;Hurto a persona;1934
+2021-05;Hurto a persona;2571
+2021-06;Hurto a persona;2809
+2021-07;Hurto a persona;2954
+2021-08;Hurto a persona;3359
+2021-09;Hurto a persona;2784
+2003-01;Hurto de carro;560
+2003-02;Hurto de carro;498
+2003-03;Hurto de carro;574
+2003-04;Hurto de carro;620
+2003-05;Hurto de carro;812
+2003-06;Hurto de carro;618
+2003-07;Hurto de carro;652
+2003-08;Hurto de carro;556
+2003-09;Hurto de carro;542
+2003-10;Hurto de carro;504
+2003-11;Hurto de carro;472
+2003-12;Hurto de carro;412
+2004-01;Hurto de carro;398
+2004-02;Hurto de carro;368
+2004-03;Hurto de carro;418
+2004-04;Hurto de carro;428
+2004-05;Hurto de carro;462
+2004-06;Hurto de carro;458
+2004-07;Hurto de carro;418
+2004-08;Hurto de carro;454
+2004-09;Hurto de carro;422
+2004-10;Hurto de carro;438
+2004-11;Hurto de carro;400
+2004-12;Hurto de carro;310
+2005-01;Hurto de carro;326
+2005-02;Hurto de carro;326
+2005-03;Hurto de carro;266
+2005-04;Hurto de carro;264
+2005-05;Hurto de carro;242
+2005-06;Hurto de carro;208
+2005-07;Hurto de carro;158
+2005-08;Hurto de carro;168
+2005-09;Hurto de carro;176
+2005-10;Hurto de carro;168
+2005-11;Hurto de carro;222
+2005-12;Hurto de carro;174
+2006-01;Hurto de carro;144
+2006-02;Hurto de carro;188
+2006-03;Hurto de carro;188
+2006-04;Hurto de carro;196
+2006-05;Hurto de carro;228
+2006-06;Hurto de carro;230
+2006-07;Hurto de carro;216
+2006-08;Hurto de carro;222
+2006-09;Hurto de carro;222
+2006-10;Hurto de carro;212
+2006-11;Hurto de carro;180
+2006-12;Hurto de carro;94
+2007-01;Hurto de carro;148
+2007-02;Hurto de carro;146
+2007-03;Hurto de carro;146
+2007-04;Hurto de carro;112
+2007-05;Hurto de carro;170
+2007-06;Hurto de carro;194
+2007-07;Hurto de carro;190
+2007-08;Hurto de carro;184
+2007-09;Hurto de carro;130
+2007-10;Hurto de carro;124
+2007-11;Hurto de carro;152
+2007-12;Hurto de carro;126
+2008-01;Hurto de carro;150
+2008-02;Hurto de carro;130
+2008-03;Hurto de carro;146
+2008-04;Hurto de carro;136
+2008-05;Hurto de carro;162
+2008-06;Hurto de carro;158
+2008-07;Hurto de carro;170
+2008-08;Hurto de carro;137
+2008-09;Hurto de carro;98
+2008-10;Hurto de carro;146
+2008-11;Hurto de carro;110
+2008-12;Hurto de carro;96
+2009-01;Hurto de carro;202
+2009-02;Hurto de carro;158
+2009-03;Hurto de carro;122
+2009-04;Hurto de carro;130
+2009-05;Hurto de carro;178
+2009-06;Hurto de carro;66
+2009-07;Hurto de carro;98
+2009-08;Hurto de carro;230
+2009-09;Hurto de carro;316
+2009-10;Hurto de carro;290
+2009-11;Hurto de carro;312
+2009-12;Hurto de carro;328
+2010-01;Hurto de carro;186
+2010-02;Hurto de carro;128
+2010-03;Hurto de carro;206
+2010-04;Hurto de carro;134
+2010-05;Hurto de carro;156
+2010-06;Hurto de carro;118
+2010-07;Hurto de carro;102
+2010-08;Hurto de carro;114
+2010-09;Hurto de carro;82
+2010-10;Hurto de carro;128
+2010-11;Hurto de carro;128
+2010-12;Hurto de carro;140
+2011-01;Hurto de carro;137
+2011-02;Hurto de carro;179
+2011-03;Hurto de carro;162
+2011-04;Hurto de carro;129
+2011-05;Hurto de carro;201
+2011-06;Hurto de carro;196
+2011-07;Hurto de carro;141
+2011-08;Hurto de carro;151
+2011-09;Hurto de carro;216
+2011-10;Hurto de carro;156
+2011-11;Hurto de carro;213
+2011-12;Hurto de carro;119
+2012-01;Hurto de carro;190
+2012-02;Hurto de carro;210
+2012-03;Hurto de carro;195
+2012-04;Hurto de carro;158
+2012-05;Hurto de carro;170
+2012-06;Hurto de carro;178
+2012-07;Hurto de carro;206
+2012-08;Hurto de carro;185
+2012-09;Hurto de carro;92
+2012-10;Hurto de carro;147
+2012-11;Hurto de carro;54
+2012-12;Hurto de carro;61
+2013-01;Hurto de carro;188
+2013-02;Hurto de carro;155
+2013-03;Hurto de carro;155
+2013-04;Hurto de carro;162
+2013-05;Hurto de carro;154
+2013-06;Hurto de carro;127
+2013-07;Hurto de carro;142
+2013-08;Hurto de carro;120
+2013-09;Hurto de carro;112
+2013-10;Hurto de carro;118
+2013-11;Hurto de carro;115
+2013-12;Hurto de carro;103
+2014-01;Hurto de carro;100
+2014-02;Hurto de carro;111
+2014-03;Hurto de carro;132
+2014-04;Hurto de carro;77
+2014-05;Hurto de carro;126
+2014-06;Hurto de carro;88
+2014-07;Hurto de carro;112
+2014-08;Hurto de carro;94
+2014-09;Hurto de carro;74
+2014-10;Hurto de carro;104
+2014-11;Hurto de carro;97
+2014-12;Hurto de carro;70
+2015-01;Hurto de carro;84
+2015-02;Hurto de carro;96
+2015-03;Hurto de carro;83
+2015-04;Hurto de carro;79
+2015-05;Hurto de carro;72
+2015-06;Hurto de carro;67
+2015-07;Hurto de carro;81
+2015-08;Hurto de carro;80
+2015-09;Hurto de carro;86
+2015-10;Hurto de carro;83
+2015-11;Hurto de carro;80
+2015-12;Hurto de carro;65
+2016-01;Hurto de carro;61
+2016-02;Hurto de carro;65
+2016-03;Hurto de carro;53
+2016-04;Hurto de carro;67
+2016-05;Hurto de carro;76
+2016-06;Hurto de carro;64
+2016-07;Hurto de carro;72
+2016-08;Hurto de carro;76
+2016-09;Hurto de carro;76
+2016-10;Hurto de carro;81
+2016-11;Hurto de carro;103
+2016-12;Hurto de carro;65
+2017-01;Hurto de carro;81
+2017-02;Hurto de carro;56
+2017-03;Hurto de carro;74
+2017-04;Hurto de carro;72
+2017-05;Hurto de carro;87
+2017-06;Hurto de carro;103
+2017-07;Hurto de carro;92
+2017-08;Hurto de carro;109
+2017-09;Hurto de carro;88
+2017-10;Hurto de carro;85
+2017-11;Hurto de carro;88
+2017-12;Hurto de carro;93
+2018-01;Hurto de carro;78
+2018-02;Hurto de carro;77
+2018-03;Hurto de carro;88
+2018-04;Hurto de carro;108
+2018-05;Hurto de carro;73
+2018-06;Hurto de carro;93
+2018-07;Hurto de carro;91
+2018-08;Hurto de carro;99
+2018-09;Hurto de carro;73
+2018-10;Hurto de carro;85
+2018-11;Hurto de carro;84
+2018-12;Hurto de carro;71
+2019-01;Hurto de carro;82
+2019-02;Hurto de carro;90
+2019-03;Hurto de carro;77
+2019-04;Hurto de carro;72
+2019-05;Hurto de carro;80
+2019-06;Hurto de carro;86
+2019-07;Hurto de carro;81
+2019-08;Hurto de carro;101
+2019-09;Hurto de carro;76
+2019-10;Hurto de carro;67
+2019-11;Hurto de carro;79
+2019-12;Hurto de carro;64
+2020-01;Hurto de carro;79
+2020-02;Hurto de carro;98
+2020-03;Hurto de carro;57
+2020-04;Hurto de carro;21
+2020-05;Hurto de carro;65
+2020-06;Hurto de carro;90
+2020-07;Hurto de carro;98
+2020-08;Hurto de carro;73
+2020-09;Hurto de carro;99
+2020-10;Hurto de carro;83
+2020-11;Hurto de carro;89
+2020-12;Hurto de carro;79
+2021-01;Hurto de carro;69
+2021-02;Hurto de carro;77
+2021-03;Hurto de carro;57
+2021-04;Hurto de carro;56
+2021-05;Hurto de carro;81
+2021-06;Hurto de carro;73
+2021-07;Hurto de carro;69
+2021-08;Hurto de carro;76
+2021-09;Hurto de carro;83
+2003-01;Hurto de moto;364
+2003-02;Hurto de moto;316
+2003-03;Hurto de moto;424
+2003-04;Hurto de moto;374
+2003-05;Hurto de moto;480
+2003-06;Hurto de moto;466
+2003-07;Hurto de moto;428
+2003-08;Hurto de moto;482
+2003-09;Hurto de moto;376
+2003-10;Hurto de moto;326
+2003-11;Hurto de moto;236
+2003-12;Hurto de moto;244
+2004-01;Hurto de moto;234
+2004-02;Hurto de moto;290
+2004-03;Hurto de moto;276
+2004-04;Hurto de moto;260
+2004-05;Hurto de moto;308
+2004-06;Hurto de moto;288
+2004-07;Hurto de moto;340
+2004-08;Hurto de moto;256
+2004-09;Hurto de moto;202
+2004-10;Hurto de moto;294
+2004-11;Hurto de moto;248
+2004-12;Hurto de moto;194
+2005-01;Hurto de moto;178
+2005-02;Hurto de moto;244
+2005-03;Hurto de moto;258
+2005-04;Hurto de moto;246
+2005-05;Hurto de moto;284
+2005-06;Hurto de moto;234
+2005-07;Hurto de moto;196
+2005-08;Hurto de moto;188
+2005-09;Hurto de moto;188
+2005-10;Hurto de moto;218
+2005-11;Hurto de moto;248
+2005-12;Hurto de moto;235
+2006-01;Hurto de moto;216
+2006-02;Hurto de moto;224
+2006-03;Hurto de moto;282
+2006-04;Hurto de moto;242
+2006-05;Hurto de moto;258
+2006-06;Hurto de moto;264
+2006-07;Hurto de moto;242
+2006-08;Hurto de moto;196
+2006-09;Hurto de moto;184
+2006-10;Hurto de moto;154
+2006-11;Hurto de moto;154
+2006-12;Hurto de moto;122
+2007-01;Hurto de moto;199
+2007-02;Hurto de moto;194
+2007-03;Hurto de moto;174
+2007-04;Hurto de moto;178
+2007-05;Hurto de moto;204
+2007-06;Hurto de moto;212
+2007-07;Hurto de moto;186
+2007-08;Hurto de moto;166
+2007-09;Hurto de moto;176
+2007-10;Hurto de moto;172
+2007-11;Hurto de moto;146
+2007-12;Hurto de moto;134
+2008-01;Hurto de moto;178
+2008-02;Hurto de moto;208
+2008-03;Hurto de moto;178
+2008-04;Hurto de moto;184
+2008-05;Hurto de moto;212
+2008-06;Hurto de moto;174
+2008-07;Hurto de moto;210
+2008-08;Hurto de moto;192
+2008-09;Hurto de moto;144
+2008-10;Hurto de moto;166
+2008-11;Hurto de moto;174
+2008-12;Hurto de moto;108
+2009-01;Hurto de moto;244
+2009-02;Hurto de moto;200
+2009-03;Hurto de moto;164
+2009-04;Hurto de moto;186
+2009-05;Hurto de moto;232
+2009-06;Hurto de moto;118
+2009-07;Hurto de moto;128
+2009-08;Hurto de moto;348
+2009-09;Hurto de moto;460
+2009-10;Hurto de moto;398
+2009-11;Hurto de moto;428
+2009-12;Hurto de moto;435
+2010-01;Hurto de moto;240
+2010-02;Hurto de moto;180
+2010-03;Hurto de moto;287
+2010-04;Hurto de moto;216
+2010-05;Hurto de moto;206
+2010-06;Hurto de moto;172
+2010-07;Hurto de moto;142
+2010-08;Hurto de moto;154
+2010-09;Hurto de moto;122
+2010-10;Hurto de moto;172
+2010-11;Hurto de moto;234
+2010-12;Hurto de moto;162
+2011-01;Hurto de moto;409
+2011-02;Hurto de moto;417
+2011-03;Hurto de moto;409
+2011-04;Hurto de moto;301
+2011-05;Hurto de moto;422
+2011-06;Hurto de moto;372
+2011-07;Hurto de moto;376
+2011-08;Hurto de moto;394
+2011-09;Hurto de moto;504
+2011-10;Hurto de moto;405
+2011-11;Hurto de moto;525
+2011-12;Hurto de moto;413
+2012-01;Hurto de moto;407
+2012-02;Hurto de moto;579
+2012-03;Hurto de moto;554
+2012-04;Hurto de moto;521
+2012-05;Hurto de moto;480
+2012-06;Hurto de moto;523
+2012-07;Hurto de moto;525
+2012-08;Hurto de moto;564
+2012-09;Hurto de moto;307
+2012-10;Hurto de moto;382
+2012-11;Hurto de moto;126
+2012-12;Hurto de moto;127
+2013-01;Hurto de moto;441
+2013-02;Hurto de moto;439
+2013-03;Hurto de moto;375
+2013-04;Hurto de moto;334
+2013-05;Hurto de moto;424
+2013-06;Hurto de moto;376
+2013-07;Hurto de moto;452
+2013-08;Hurto de moto;437
+2013-09;Hurto de moto;460
+2013-10;Hurto de moto;432
+2013-11;Hurto de moto;406
+2013-12;Hurto de moto;348
+2014-01;Hurto de moto;375
+2014-02;Hurto de moto;359
+2014-03;Hurto de moto;353
+2014-04;Hurto de moto;365
+2014-05;Hurto de moto;388
+2014-06;Hurto de moto;317
+2014-07;Hurto de moto;429
+2014-08;Hurto de moto;378
+2014-09;Hurto de moto;419
+2014-10;Hurto de moto;423
+2014-11;Hurto de moto;436
+2014-12;Hurto de moto;426
+2015-01;Hurto de moto;435
+2015-02;Hurto de moto;377
+2015-03;Hurto de moto;352
+2015-04;Hurto de moto;349
+2015-05;Hurto de moto;360
+2015-06;Hurto de moto;293
+2015-07;Hurto de moto;357
+2015-08;Hurto de moto;365
+2015-09;Hurto de moto;391
+2015-10;Hurto de moto;372
+2015-11;Hurto de moto;348
+2015-12;Hurto de moto;377
+2016-01;Hurto de moto;446
+2016-02;Hurto de moto;368
+2016-03;Hurto de moto;361
+2016-04;Hurto de moto;430
+2016-05;Hurto de moto;470
+2016-06;Hurto de moto;411
+2016-07;Hurto de moto;469
+2016-08;Hurto de moto;505
+2016-09;Hurto de moto;500
+2016-10;Hurto de moto;452
+2016-11;Hurto de moto;365
+2016-12;Hurto de moto;349
+2017-01;Hurto de moto;411
+2017-02;Hurto de moto;296
+2017-03;Hurto de moto;318
+2017-04;Hurto de moto;268
+2017-05;Hurto de moto;328
+2017-06;Hurto de moto;249
+2017-07;Hurto de moto;311
+2017-08;Hurto de moto;315
+2017-09;Hurto de moto;315
+2017-10;Hurto de moto;411
+2017-11;Hurto de moto;359
+2017-12;Hurto de moto;401
+2018-01;Hurto de moto;357
+2018-02;Hurto de moto;337
+2018-03;Hurto de moto;354
+2018-04;Hurto de moto;445
+2018-05;Hurto de moto;420
+2018-06;Hurto de moto;354
+2018-07;Hurto de moto;442
+2018-08;Hurto de moto;438
+2018-09;Hurto de moto;447
+2018-10;Hurto de moto;428
+2018-11;Hurto de moto;421
+2018-12;Hurto de moto;370
+2019-01;Hurto de moto;421
+2019-02;Hurto de moto;415
+2019-03;Hurto de moto;410
+2019-04;Hurto de moto;374
+2019-05;Hurto de moto;458
+2019-06;Hurto de moto;383
+2019-07;Hurto de moto;383
+2019-08;Hurto de moto;442
+2019-09;Hurto de moto;406
+2019-10;Hurto de moto;467
+2019-11;Hurto de moto;384
+2019-12;Hurto de moto;426
+2020-01;Hurto de moto;426
+2020-02;Hurto de moto;416
+2020-03;Hurto de moto;259
+2020-04;Hurto de moto;175
+2020-05;Hurto de moto;278
+2020-06;Hurto de moto;329
+2020-07;Hurto de moto;348
+2020-08;Hurto de moto;357
+2020-09;Hurto de moto;470
+2020-10;Hurto de moto;381
+2020-11;Hurto de moto;371
+2020-12;Hurto de moto;434
+2021-01;Hurto de moto;352
+2021-02;Hurto de moto;389
+2021-03;Hurto de moto;376
+2021-04;Hurto de moto;322
+2021-05;Hurto de moto;408
+2021-06;Hurto de moto;432
+2021-07;Hurto de moto;317
+2021-08;Hurto de moto;332
+2021-09;Hurto de moto;359
+2003-01;Hurto a residencia;80
+2003-02;Hurto a residencia;58
+2003-03;Hurto a residencia;30
+2003-04;Hurto a residencia;142
+2003-05;Hurto a residencia;198
+2003-06;Hurto a residencia;160
+2003-07;Hurto a residencia;240
+2003-08;Hurto a residencia;304
+2003-09;Hurto a residencia;250
+2003-10;Hurto a residencia;252
+2003-11;Hurto a residencia;378
+2003-12;Hurto a residencia;132
+2004-01;Hurto a residencia;128
+2004-02;Hurto a residencia;76
+2004-03;Hurto a residencia;80
+2004-04;Hurto a residencia;110
+2004-05;Hurto a residencia;130
+2004-06;Hurto a residencia;152
+2004-07;Hurto a residencia;192
+2004-08;Hurto a residencia;138
+2004-09;Hurto a residencia;92
+2004-10;Hurto a residencia;164
+2004-11;Hurto a residencia;178
+2004-12;Hurto a residencia;146
+2005-01;Hurto a residencia;114
+2005-02;Hurto a residencia;102
+2005-03;Hurto a residencia;148
+2005-04;Hurto a residencia;82
+2005-05;Hurto a residencia;98
+2005-06;Hurto a residencia;88
+2005-07;Hurto a residencia;138
+2005-08;Hurto a residencia;108
+2005-09;Hurto a residencia;104
+2005-10;Hurto a residencia;58
+2005-11;Hurto a residencia;102
+2005-12;Hurto a residencia;102
+2006-01;Hurto a residencia;116
+2006-02;Hurto a residencia;118
+2006-03;Hurto a residencia;74
+2006-04;Hurto a residencia;166
+2006-05;Hurto a residencia;74
+2006-06;Hurto a residencia;108
+2006-07;Hurto a residencia;52
+2006-08;Hurto a residencia;194
+2006-09;Hurto a residencia;68
+2006-10;Hurto a residencia;46
+2006-11;Hurto a residencia;134
+2006-12;Hurto a residencia;28
+2007-01;Hurto a residencia;56
+2007-02;Hurto a residencia;70
+2007-03;Hurto a residencia;90
+2007-04;Hurto a residencia;38
+2007-05;Hurto a residencia;16
+2007-06;Hurto a residencia;60
+2007-07;Hurto a residencia;8
+2007-08;Hurto a residencia;38
+2007-09;Hurto a residencia;28
+2007-10;Hurto a residencia;22
+2007-11;Hurto a residencia;128
+2007-12;Hurto a residencia;20
+2008-01;Hurto a residencia;44
+2008-02;Hurto a residencia;42
+2008-03;Hurto a residencia;76
+2008-04;Hurto a residencia;124
+2008-05;Hurto a residencia;102
+2008-06;Hurto a residencia;154
+2008-07;Hurto a residencia;222
+2008-08;Hurto a residencia;140
+2008-09;Hurto a residencia;88
+2008-10;Hurto a residencia;106
+2008-11;Hurto a residencia;80
+2008-12;Hurto a residencia;98
+2009-01;Hurto a residencia;118
+2009-02;Hurto a residencia;94
+2009-03;Hurto a residencia;52
+2009-04;Hurto a residencia;112
+2009-05;Hurto a residencia;32
+2009-06;Hurto a residencia;20
+2009-07;Hurto a residencia;14
+2009-08;Hurto a residencia;82
+2009-09;Hurto a residencia;56
+2009-10;Hurto a residencia;50
+2009-11;Hurto a residencia;62
+2009-12;Hurto a residencia;38
+2010-01;Hurto a residencia;68
+2010-02;Hurto a residencia;30
+2010-03;Hurto a residencia;28
+2010-04;Hurto a residencia;28
+2010-05;Hurto a residencia;46
+2010-06;Hurto a residencia;20
+2010-07;Hurto a residencia;26
+2010-08;Hurto a residencia;30
+2010-09;Hurto a residencia;38
+2010-10;Hurto a residencia;48
+2010-11;Hurto a residencia;42
+2010-12;Hurto a residencia;18
+2011-01;Hurto a residencia;37
+2011-02;Hurto a residencia;19
+2011-03;Hurto a residencia;31
+2011-04;Hurto a residencia;18
+2011-05;Hurto a residencia;13
+2011-06;Hurto a residencia;12
+2011-07;Hurto a residencia;27
+2011-08;Hurto a residencia;26
+2011-09;Hurto a residencia;9
+2011-10;Hurto a residencia;22
+2011-11;Hurto a residencia;23
+2011-12;Hurto a residencia;8
+2012-01;Hurto a residencia;75
+2012-02;Hurto a residencia;40
+2012-03;Hurto a residencia;46
+2012-04;Hurto a residencia;74
+2012-05;Hurto a residencia;53
+2012-06;Hurto a residencia;98
+2012-07;Hurto a residencia;81
+2012-08;Hurto a residencia;52
+2012-09;Hurto a residencia;37
+2012-10;Hurto a residencia;25
+2012-11;Hurto a residencia;26
+2012-12;Hurto a residencia;59
+2013-01;Hurto a residencia;155
+2013-02;Hurto a residencia;46
+2013-03;Hurto a residencia;33
+2013-04;Hurto a residencia;47
+2013-05;Hurto a residencia;21
+2013-06;Hurto a residencia;103
+2013-07;Hurto a residencia;117
+2013-08;Hurto a residencia;45
+2013-09;Hurto a residencia;164
+2013-10;Hurto a residencia;335
+2013-11;Hurto a residencia;68
+2013-12;Hurto a residencia;55
+2014-01;Hurto a residencia;137
+2014-02;Hurto a residencia;132
+2014-03;Hurto a residencia;67
+2014-04;Hurto a residencia;28
+2014-05;Hurto a residencia;83
+2014-06;Hurto a residencia;131
+2014-07;Hurto a residencia;130
+2014-08;Hurto a residencia;117
+2014-09;Hurto a residencia;169
+2014-10;Hurto a residencia;126
+2014-11;Hurto a residencia;119
+2014-12;Hurto a residencia;135
+2015-01;Hurto a residencia;270
+2015-02;Hurto a residencia;253
+2015-03;Hurto a residencia;167
+2015-04;Hurto a residencia;186
+2015-05;Hurto a residencia;254
+2015-06;Hurto a residencia;206
+2015-07;Hurto a residencia;195
+2015-08;Hurto a residencia;215
+2015-09;Hurto a residencia;201
+2015-10;Hurto a residencia;196
+2015-11;Hurto a residencia;157
+2015-12;Hurto a residencia;150
+2016-01;Hurto a residencia;180
+2016-02;Hurto a residencia;192
+2016-03;Hurto a residencia;184
+2016-04;Hurto a residencia;162
+2016-05;Hurto a residencia;211
+2016-06;Hurto a residencia;180
+2016-07;Hurto a residencia;221
+2016-08;Hurto a residencia;189
+2016-09;Hurto a residencia;173
+2016-10;Hurto a residencia;156
+2016-11;Hurto a residencia;176
+2016-12;Hurto a residencia;200
+2017-01;Hurto a residencia;280
+2017-02;Hurto a residencia;235
+2017-03;Hurto a residencia;345
+2017-04;Hurto a residencia;355
+2017-05;Hurto a residencia;305
+2017-06;Hurto a residencia;247
+2017-07;Hurto a residencia;262
+2017-08;Hurto a residencia;355
+2017-09;Hurto a residencia;365
+2017-10;Hurto a residencia;276
+2017-11;Hurto a residencia;416
+2017-12;Hurto a residencia;454
+2018-01;Hurto a residencia;393
+2018-02;Hurto a residencia;310
+2018-03;Hurto a residencia;355
+2018-04;Hurto a residencia;308
+2018-05;Hurto a residencia;466
+2018-06;Hurto a residencia;395
+2018-07;Hurto a residencia;478
+2018-08;Hurto a residencia;495
+2018-09;Hurto a residencia;413
+2018-10;Hurto a residencia;412
+2018-11;Hurto a residencia;302
+2018-12;Hurto a residencia;425
+2019-01;Hurto a residencia;308
+2019-02;Hurto a residencia;332
+2019-03;Hurto a residencia;356
+2019-04;Hurto a residencia;435
+2019-05;Hurto a residencia;295
+2019-06;Hurto a residencia;465
+2019-07;Hurto a residencia;346
+2019-08;Hurto a residencia;382
+2019-09;Hurto a residencia;385
+2019-10;Hurto a residencia;468
+2019-11;Hurto a residencia;444
+2019-12;Hurto a residencia;372
+2020-01;Hurto a residencia;355
+2020-02;Hurto a residencia;392
+2020-03;Hurto a residencia;213
+2020-04;Hurto a residencia;141
+2020-05;Hurto a residencia;188
+2020-06;Hurto a residencia;331
+2020-07;Hurto a residencia;340
+2020-08;Hurto a residencia;395
+2020-09;Hurto a residencia;515
+2020-10;Hurto a residencia;401
+2020-11;Hurto a residencia;390
+2020-12;Hurto a residencia;455
+2021-01;Hurto a residencia;408
+2021-02;Hurto a residencia;352
+2021-03;Hurto a residencia;286
+2021-04;Hurto a residencia;227
+2021-05;Hurto a residencia;355
+2021-06;Hurto a residencia;304
+2021-07;Hurto a residencia;332
+2021-08;Hurto a residencia;330
+2021-09;Hurto a residencia;270
+2003-01;Hurto de semoviente;2
+2003-03;Hurto de semoviente;2
+2003-11;Hurto de semoviente;2
+2004-02;Hurto de semoviente;2
+2004-06;Hurto de semoviente;2
+2004-08;Hurto de semoviente;2
+2004-11;Hurto de semoviente;2
+2005-01;Hurto de semoviente;2
+2005-08;Hurto de semoviente;2
+2005-09;Hurto de semoviente;2
+2005-10;Hurto de semoviente;4
+2005-11;Hurto de semoviente;2
+2005-12;Hurto de semoviente;2
+2006-01;Hurto de semoviente;2
+2006-05;Hurto de semoviente;4
+2007-03;Hurto de semoviente;2
+2007-07;Hurto de semoviente;2
+2007-12;Hurto de semoviente;2
+2008-06;Hurto de semoviente;2
+2008-09;Hurto de semoviente;2
+2009-01;Hurto de semoviente;2
+2009-03;Hurto de semoviente;6
+2009-04;Hurto de semoviente;4
+2009-08;Hurto de semoviente;2
+2009-12;Hurto de semoviente;2
+2010-08;Hurto de semoviente;2
+2011-04;Hurto de semoviente;1
+2011-05;Hurto de semoviente;1
+2011-08;Hurto de semoviente;1
+2012-05;Hurto de semoviente;1
+2012-08;Hurto de semoviente;1
+2012-11;Hurto de semoviente;1
+2013-05;Hurto de semoviente;1
+2013-07;Hurto de semoviente;1
+2013-09;Hurto de semoviente;1
+2013-12;Hurto de semoviente;1
+2014-01;Hurto de semoviente;1
+2014-06;Hurto de semoviente;1
+2014-10;Hurto de semoviente;2
+2015-02;Hurto de semoviente;1
+2015-04;Hurto de semoviente;1
+2015-09;Hurto de semoviente;1
+2015-12;Hurto de semoviente;1
+2016-02;Hurto de semoviente;1
+2016-07;Hurto de semoviente;1
+2017-02;Hurto de semoviente;1
+2017-03;Hurto de semoviente;1
+2017-04;Hurto de semoviente;2
+2017-05;Hurto de semoviente;1
+2017-06;Hurto de semoviente;2
+2017-08;Hurto de semoviente;1
+2017-10;Hurto de semoviente;1
+2017-11;Hurto de semoviente;1
+2018-02;Hurto de semoviente;1
+2018-03;Hurto de semoviente;4
+2018-06;Hurto de semoviente;1
+2018-08;Hurto de semoviente;1
+2018-11;Hurto de semoviente;2
+2019-02;Hurto de semoviente;1
+2019-04;Hurto de semoviente;1
+2019-05;Hurto de semoviente;1
+2019-07;Hurto de semoviente;1
+2019-12;Hurto de semoviente;1
+2020-01;Hurto de semoviente;1
+2020-02;Hurto de semoviente;1
+2020-03;Hurto de semoviente;1
+2020-04;Hurto de semoviente;2
+2020-07;Hurto de semoviente;2
+2020-08;Hurto de semoviente;1
+2020-09;Hurto de semoviente;1
+2020-12;Hurto de semoviente;1
+2021-04;Hurto de semoviente;1
+2021-05;Hurto de semoviente;1
+2021-06;Hurto de semoviente;1
